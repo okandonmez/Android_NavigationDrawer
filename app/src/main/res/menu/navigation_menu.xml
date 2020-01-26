@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+     <item android:id="@+id/nav_acc"
+         android:title="account" />
+
+    <item android:id="@+id/nav_contact"
+        android:title="contact" />
+
+    <item android:id="@+id/nav_social"
+        android:title="social_media" />
+
+</menu>
